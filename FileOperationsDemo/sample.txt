@@ -1,0 +1,4 @@
+Welcome to Java File Handling.
+This file is created using Java.
+File operations are easy!
+This line is added later (file modified).
